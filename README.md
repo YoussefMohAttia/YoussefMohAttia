@@ -35,9 +35,10 @@ Aiming to grow my knowledge and skill-set by learning from more experienced deve
  <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://docs.openmv.io/openmvcam/tutorial/index.html">
-    <img src="https://global.discourse-cdn.com/standard17/uploads/openmv1/original/2X/7/7e5a87ef6230e6a31bf4c5eb1cf2d1b9a56a2f7e.png" width="50" height="50">&nbsp;
-  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> 
+  </a>
+  
   <a href="https://www.w3schools.com/git/">
     <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
   </a> 
