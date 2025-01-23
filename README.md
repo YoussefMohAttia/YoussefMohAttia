@@ -41,7 +41,15 @@ Aiming to grow my knowledge and skill-set by learning from more experienced deve
   
   <a href="https://www.w3schools.com/git/">
     <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
-  </a> 
+  </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMohAttia&show_icons=true&locale=en&layout=compact" alt="YoussefMohAttia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefMohAttia&show_icons=true&locale=en" alt="YoussefMohAttia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMohAttia&" alt="YoussefMohAttia" /></p>
+
+  
 </div>
    
 </div>
