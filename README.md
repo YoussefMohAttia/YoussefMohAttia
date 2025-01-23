@@ -43,7 +43,7 @@ Aiming to grow my knowledge and skill-set by learning from more experienced deve
     <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
   </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMohAttia&show_icons=true&locale=en&layout=compact" alt="YoussefMohAttia" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMohAttia&show_icons=true&locale=en&layout=compact" alt="YoussefMohAttia" /></p>
   
 </div>
    
