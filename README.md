@@ -44,11 +44,6 @@ Aiming to grow my knowledge and skill-set by learning from more experienced deve
   </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMohAttia&show_icons=true&locale=en&layout=compact" alt="YoussefMohAttia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefMohAttia&show_icons=true&locale=en" alt="YoussefMohAttia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMohAttia&" alt="YoussefMohAttia" /></p>
-
   
 </div>
    
