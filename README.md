@@ -81,7 +81,7 @@ I'm passionate about applying AI and machine learning to impactful projects, and
 - 🇩🇪 Coached two teams representing Egypt at the **RoboCup Junior European Championship 2024**
 - 🥈 **MATE Arab ROV Regionals 2018**: 2nd place
 - ☁️ **AWS Academy Graduate**: Machine Learning Foundations, ML for NLP, Data Engineering
-- 🛡️ **SAS**: Responsible Innovation and Trustworthy AI
+-    **SAS**: Responsible Innovation and Trustworthy AI
 
 ---
 
