@@ -1,48 +1,91 @@
-## Hi I'm Youssef Mohamed 👋 
-Undergraduate Computer and communication engineer with a focus in the software field and a robotics background.
-Aiming to grow my knowledge and skill-set by learning from more experienced developers.
-- 💬 Ask me about Robotics
+<h1 align="center">Hi, I'm Youssef Mohamed 👋</h1>
 
-## :speech_balloon: Connect with me: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/youssefmohattia/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="mailto:youssefmohamed2531@gmail.com">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">
-    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" height="50">
-    </picture>&nbsp;
-  </a>
-</div>
+<p align="center">
+  <b>Computer & Communication Engineer · AI / ML · Software Engineering · Robotics</b><br/>
+  Alexandria, Egypt 🇪🇬
+</p>
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
- <a href="https://www.learn-c.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.learn-cpp.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>  
-  <a href="https://www.learnpython.org/">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
-    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50">
-    </picture>&nbsp;
-  </a> 
- <a href="https://docs.arduino.cc/learn/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/git/">
-    <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
-  </a>
-  
-</div>
-   
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssefmohattia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:youssefmohattiaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/YoussefMohAttia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Computer and Communication Engineering graduate from **Alexandria University** (GPA 3.74/4.0) with a strong focus on **software engineering and artificial intelligence**, backed by a long robotics background.
+
+I'm passionate about applying AI and machine learning to impactful projects, and about learning from experienced engineers along the way.
+
+- 🤖 Building LLM applications: RAG, agents, and vector search
+- 🧠 Machine learning, deep learning, and NLP (including Arabic NLP)
+- 🏆 Robotics: RoboCup Junior international finalist and coach
+- 🎓 Mentor and instructor with 5 years of teaching experience
+- 💬 Ask me about **robotics, ML, or RAG systems**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎓 [**MultiAgent AI Teaching Assistant**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | Full-stack self-study platform with Google Classroom ingestion, summarizer, quiz generator, tutoring chatbot, and essay evaluator powered by RAG | `Python` `FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `React` `Docker` |
+| 🎵 [**Arabic Songs Lyrics Analysis**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | NLP pipeline analyzing 78 Arabic songs for sentiment, emotion, and key terms using AraBERT and LLMs | `Python` `Hugging Face` `NLTK` `TF-IDF` |
+| 🐚 [**Linux Interactive Mini Shell**](https://github.com/YoussefMohAttia/Linux-interactive-Minishell) | Custom Unix shell with piping, file redirection, background processes, and signal handling | `C++` `Lex` `Yacc` |
+| ♟️ [**Chess Game**](https://github.com/YoussefMohAttia/Chess-game) | Object-oriented chess engine with GUI, undo, valid-move highlighting, and all special moves | `Java` `OOP` `Design Patterns` |
+| 🔢 [**MNIST Digit Recognition**](https://github.com/YoussefMohAttia/MNIST-Handwritten-Digit-Recognition) | Handwritten digit classifier comparing ANN and CNN architectures | `Python` `Deep Learning` |
+| 🚬 [**Smoking Status Prediction**](https://github.com/YoussefMohAttia/Smoking-status-prediction) | Bio-signal classification with feature engineering, ensembles, and hyperparameter tuning | `Python` `scikit-learn` |
+| 🔬 [**Breast Cancer Analysis**](https://github.com/YoussefMohAttia/unsupervised-breast-cancer-analysis) | Unsupervised learning with PCA and K-Means on the Breast Cancer Wisconsin dataset | `Python` `PCA` `K-Means` |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,postgres" alt="Languages"/>
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" alt="ML"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
+
+**Backend, Frontend & DevOps**
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,docker,githubactions,git,github,linux" alt="Tools"/>
+
+**Embedded & Scientific**
+
+<img src="https://skillicons.dev/icons?i=arduino,matlab" alt="Embedded"/>
+
+**Focus areas:** RAG · LLM Applications · NLP · Deep Learning · Reinforcement Learning · Vector Databases · Data Structures & Algorithms
+
+---
+
+## 💼 Experience
+
+- **Machine Learning Intern, Elevvo Pathways** (Sep 2025): built a PyTorch CNN for traffic sign classification, a collaborative filtering recommender, K-Means customer segmentation, and a student performance predictor.
+- **Software / Robotics Instructor, Innova STEM Education** (2020 – 2025): taught programming and embedded systems, and mentored teams building autonomous robots.
+- **Intern, CIB Egypt** (Summer 2025): program with IFC, Frankfurt School, SAS, and Euromoney covering sustainable finance, ESG, and ethical AI.
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **RoboCup Egypt 2019**: 1st place
+- 🌏 Represented Egypt at the **RoboCup Junior International Finals**, Sydney 2019
+- 🇩🇪 Coached two teams representing Egypt at the **RoboCup Junior European Championship 2024**
+- 🥈 **MATE Arab ROV Regionals 2018**: 2nd place
+- ☁️ **AWS Academy Graduate**: Machine Learning Foundations, ML for NLP, Data Engineering
+- 🛡️ **SAS**: Responsible Innovation and Trustworthy AI
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **AI / ML and software engineering** opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/youssefmohattia/) or by [email](mailto:youssefmohattiaa@gmail.com).
