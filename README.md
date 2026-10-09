@@ -1,21 +1,20 @@
 <h1 align="center">Hi, I'm Youssef Mohamed 👋</h1>
 
 <p align="center">
-  <b>Computer & Communication Engineer · AI / ML · Software Engineering · Robotics</b><br/>
+  <b>AI / ML Engineer · Computer & Communication Graduate</b><br/>
   Alexandria, Egypt 🇪🇬
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefmohattia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:youssefmohattiaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/YoussefMohAttia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer and Communication Engineering graduate from **Alexandria University** (GPA 3.74/4.0) with a strong focus on **software engineering and artificial intelligence**, backed by a long robotics background.
+Computer and Communication Engineering graduate from **Alexandria University** with a strong focus on **software engineering and artificial intelligence**, backed by a long robotics background.
 
 I'm passionate about applying AI and machine learning to impactful projects, and about learning from experienced engineers along the way.
 
@@ -23,7 +22,7 @@ I'm passionate about applying AI and machine learning to impactful projects, and
 - 🧠 Machine learning, deep learning, and NLP (including Arabic NLP)
 - 🏆 Robotics: RoboCup Junior international finalist and coach
 - 🎓 Mentor and instructor with 5 years of teaching experience
-- 💬 Ask me about **robotics, ML, or RAG systems**
+- 💬 Ask me about **artificial intelligences, software engineering or robotics**
 
 ---
 
@@ -31,7 +30,7 @@ I'm passionate about applying AI and machine learning to impactful projects, and
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎓 [**MultiAgent AI Teaching Assistant**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | Full-stack self-study platform with Google Classroom ingestion, summarizer, quiz generator, tutoring chatbot, and essay evaluator powered by RAG | `Python` `FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `React` `Docker` |
+| 🎓 [**MultiAgent AI Teaching Assistant**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | Full-stack self-study platform with Google Classroom integration - summarizer, quiz generator, tutoring chatbot, summary evaluator and essay grader | `Python` `FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `React` `Docker` |
 | 🎵 [**Arabic Songs Lyrics Analysis**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | NLP pipeline analyzing 78 Arabic songs for sentiment, emotion, and key terms using AraBERT and LLMs | `Python` `Hugging Face` `NLTK` `TF-IDF` |
 | 🐚 [**Linux Interactive Mini Shell**](https://github.com/YoussefMohAttia/Linux-interactive-Minishell) | Custom Unix shell with piping, file redirection, background processes, and signal handling | `C++` `Lex` `Yacc` |
 | ♟️ [**Chess Game**](https://github.com/YoussefMohAttia/Chess-game) | Object-oriented chess engine with GUI, undo, valid-move highlighting, and all special moves | `Java` `OOP` `Design Patterns` |
@@ -45,7 +44,7 @@ I'm passionate about applying AI and machine learning to impactful projects, and
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,postgres" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,r" alt="Languages"/>
 
 **AI / Machine Learning**
 
