@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>AI / ML Engineer · Computer & Communication Graduate</b><br/>
-  Alexandria, Egypt 🇪🇬
 </p>
 
 <p align="center">
