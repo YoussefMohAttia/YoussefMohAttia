@@ -29,8 +29,8 @@ I'm passionate about applying AI and machine learning to impactful projects, and
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎓 [**MultiAgent AI Teaching Assistant**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | Full-stack self-study platform with Google Classroom integration - summarizer, quiz generator, tutoring chatbot, summary evaluator and essay grader | `Python` `FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `React` `Docker` |
-| 🎵 [**Arabic Songs Lyrics Analysis**](https://github.com/YoussefMohAttia/REPO-NAME-HERE) | NLP pipeline analyzing 78 Arabic songs for sentiment, emotion, and key terms using AraBERT and LLMs | `Python` `Hugging Face` `NLTK` `TF-IDF` |
+| 🎓 [**MultiAgent AI Teaching Assistant**](https://github.com/YoussefMohAttia/MultiAgent-AI-Teaching-Assistant) | Full-stack self-study platform with Google Classroom integration - summarizer, quiz generator, tutoring chatbot, summary evaluator and essay grader | `Python` `FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `React` `Docker` |
+| 🎵 [**Arabic Songs Lyrics Analysis**](https://github.com/YoussefMohAttia/Arabic-Lyrics-Analysis-LLM) | NLP pipeline analyzing 78 Arabic songs for sentiment, emotion, and key terms using AraBERT and LLMs | `Python` `Hugging Face` `NLTK` `TF-IDF` |
 | 🐚 [**Linux Interactive Mini Shell**](https://github.com/YoussefMohAttia/Linux-interactive-Minishell) | Custom Unix shell with piping, file redirection, background processes, and signal handling | `C++` `Lex` `Yacc` |
 | ♟️ [**Chess Game**](https://github.com/YoussefMohAttia/Chess-game) | Object-oriented chess engine with GUI, undo, valid-move highlighting, and all special moves | `Java` `OOP` `Design Patterns` |
 | 🔢 [**MNIST Digit Recognition**](https://github.com/YoussefMohAttia/MNIST-Handwritten-Digit-Recognition) | Handwritten digit classifier comparing ANN and CNN architectures | `Python` `Deep Learning` |
